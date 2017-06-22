@@ -207,7 +207,7 @@ This feature is not supported on the Messaging API. Users can only play videos t
 
 ### Why doesn't my audio, video, or image message display properly on Android devices?
 
-The Android LINE App does not currently support Server Name Indication (SNI) on devices that are using versions of Android older than 6.0. As a result, audio, video, and image messages that contain media that is hosted from a server that uses SNI may not be displayed properly on these Android devices. Our team is planning to fix this in a future release.
+The Android LINE app does not currently support Server Name Indication (SNI) on devices that are using versions of Android older than 6.0. As a result, audio, video, and image messages that are hosted on a server that uses SNI may not be displayed properly on these Android devices. Our team is planning to fix this in a future release.
 
 You can check if the server you are hosting your media on supports SNI using [SSL Labs's SSL Test](https://www.ssllabs.com/ssltest/). 
 
