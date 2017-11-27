@@ -6,7 +6,7 @@ If you'd like to report a bug, give a suggestion, or leave any other kind of fee
 
 ## Open issues
 
-Before you open a new issue, please check the existing [open](https://github.com/line/line-bot-faq/issues?q=is%3Aopen+is%3Aissue) and [closed](https://github.com/line/line-bot-faq/issues?q=is%3Aissue+is%3Aclosed) issues to see if the same issue has been addressed.
+Before you create a new issue, please check the existing [open](https://github.com/line/line-bot-faq/issues?q=is%3Aopen+is%3Aissue) and [closed](https://github.com/line/line-bot-faq/issues?q=is%3Aissue+is%3Aclosed) issues to see if the same issue has been addressed.
 
 - [Open issues](https://github.com/line/line-bot-faq/issues?q=is%3Aopen+is%3Aissue)
 - [Closed issues](https://github.com/line/line-bot-faq/issues?q=is%3Aissue+is%3Aclosed)
@@ -28,7 +28,11 @@ Go to our [News](https://developers.line.me/en/news/) page to see the latest inf
 
 ### LINE Developers official account 
 
+Scan the QR code or tap the button below to add the LINE Developers official account as a friend on LINE.
+
 ![LINE Developers account QR code](images/line-developers-official-account.png)
+
+[![Add friend](https://biz.line.naver.jp/line_business/img/btn/addfriends_en.png)](https://line.me/ti/p/%40linedevelopers)
 
 ### Social media accounts
 
