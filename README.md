@@ -26,7 +26,7 @@ You may want to check our [FAQ page](https://developers.line.me/en/faq/) to see 
 
 Go to our [News](https://developers.line.me/en/news/) page to see the latest information about our developer products. To receive the latest information about the LINE Platform, [add the LINE Developers official account as a friend](https://line.me/ti/p/%40linedevelopers) or follow us on social media.
 
-### LINE Developers official account 
+### LINE Developers official account
 
 Scan the QR code or tap the button below to add the LINE Developers official account as a friend on LINE.
 
@@ -38,3 +38,29 @@ Scan the QR code or tap the button below to add the LINE Developers official acc
 
 - [LINE_DEV Twitter account (Japanese)](https://twitter.com/line_dev?lang=en) 
 - [LINE Engineering Facebook account (Japanese)](https://www.facebook.com/engineering.line/)
+
+## Related resources
+
+### Messaging API
+- [Official documentation](https://developers.line.me/en/services/messaging-api/)
+- [Messaging API reference](https://developers.line.me/en/docs/messaging-api/reference/)
+- [LINE Bot SDK](https://developers.line.me/en/docs/messaging-api/line-bot-sdk/)
+    - [Python](https://github.com/line/line-bot-sdk-python)
+    - [Node.js](https://github.com/line/line-bot-sdk-nodejs)
+    - [Java](https://github.com/line/line-bot-sdk-java)
+    - [Go](https://github.com/line/line-bot-sdk-go)
+    - [Ruby](https://github.com/line/line-bot-sdk-ruby)
+    - [PHP](https://github.com/line/line-bot-sdk-php)
+    - [Perl](https://github.com/line/line-bot-sdk-perl)
+- [Release notes](https://developers.line.me/en/docs/messaging-api/release-notes/)
+- [Demo bot for rich menu](https://github.com/line/demo-rich-menu-bot)
+- [LINE Simple Beacon](https://github.com/line/line-simple-beacon)
+
+### LINE Login
+- [Official documentation](https://developers.line.me/en/docs/line-login/overview/)
+- [Social API reference](https://developers.line.me/en/docs/social-api/overview/)
+- [LINE SDK for iOS/Android downloads](https://developers.line.me/en/docs/line-login/downloads/)
+- [LINE Login sample](https://github.com/line/line-login-sample-for-spring-security)
+- [LINE Login starter app for web](https://github.com/line/line-login-starter)
+- [LINE Login iOS starter app](https://github.com/line/line-sdk-starter-ios-v2)
+- [LINE Login Android starter app](https://github.com/line/line-sdk-starter-android-v2)
