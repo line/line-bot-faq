@@ -22,6 +22,16 @@ If you have any issues or suggestions related to our [developer documentation](h
 
 You may want to check our [FAQ page](https://developers.line.me/en/faq/) to see the answers to frequently asked questions about our developer products. You can use the search feature or filter by labels to filter the FAQ items.
 
+## About the labels
+
+We use the following labels to organize our issues.
+
+- `bug`: Minor problem or issue
+- `enhancement`: Suggestion to improve an existing feature
+- `feature-request`: Suggestion for a new feature
+- `question`: Question related to a LINE Platform product
+- `documentation`: Issue related to documentation
+
 ## Staying up to date on the latest news
 
 Go to our [News](https://developers.line.me/en/news/) page to see the latest information about our developer products. To receive the latest information about the LINE Platform, [add the LINE Developers official account as a friend](https://line.me/ti/p/%40linedevelopers) or follow us on social media.
