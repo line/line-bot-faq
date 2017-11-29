@@ -1,6 +1,6 @@
-# LINE Platform issue tracker
+# LINE Platform feedback
 
-This public repository is used to track issues for LINE Platform products found on the [LINE Developers site](https://developers.line.me/en/) such as [Messaging API](https://developers.line.me/en/services/messaging-api/) and [LINE Login](https://developers.line.me/en/docs/line-login/overview/). 
+This public repository is for sharing feedback and issues with LINE Platform products found on the [LINE Developers site](https://developers.line.me/en/) such as the [Messaging API](https://developers.line.me/en/services/messaging-api/) and [LINE Login](https://developers.line.me/en/docs/line-login/overview/). 
 
 If you'd like to report a bug, give a suggestion, or leave any other kind of feedback, you can [create an issue](https://github.com/line/line-bot-faq/issues) in this repository. Although we cannot guarantee that we can respond to and implement all requests, we greatly appreciate your feedback and will do our best to respond wherever possible. 
 
@@ -28,7 +28,7 @@ We use the following labels to organize our issues.
 
 - `bug`: Minor problem or issue
 - `enhancement`: Suggestion to improve an existing feature
-- `feature-request`: Suggestion for a new feature
+- `feature request`: Suggestion for a new feature
 - `question`: Question related to a LINE Platform product
 - `documentation`: Issue related to documentation
 
