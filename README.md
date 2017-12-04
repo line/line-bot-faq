@@ -13,14 +13,15 @@ Before you create a new issue, please check the existing [open](https://github.c
 
 ## Documentation feedback
 
-If you have any issues or suggestions related to our [developer documentation](https://developers.line.me/en/docs/), you can do one of the following:
+If you have any issues or suggestions related to our [developer documentation](https://developers.line.me/en/docs/), you can do the following:
 
-- Leave feedback using our feedback form from the page where you found the issue
 - Create a [new issue](https://github.com/line/line-bot-faq/issues) with the "documentation" label
 
 ## Frequently asked questions (FAQ)
 
 You may want to check our [FAQ page](https://developers.line.me/en/faq/) to see the answers to frequently asked questions about our developer products. You can use the search feature or filter by labels to filter the FAQ items.
+
+- [FAQ page](https://developers.line.me/en/faq/)
 
 ## About the labels
 
@@ -50,6 +51,8 @@ Scan the QR code or tap the button below to add the LINE Developers official acc
 - [LINE Engineering Facebook account (Japanese)](https://www.facebook.com/engineering.line/)
 
 ## Related resources
+
+See below for more information on our LINE Developer products and resources available to developers.
 
 ### Messaging API
 - [Official documentation](https://developers.line.me/en/services/messaging-api/)
